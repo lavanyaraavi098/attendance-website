@@ -1,0 +1,9 @@
+{
+  "name": "Attendance Calculator",
+  "description": "Calculate current attendance percentage, classes you can safely miss, or classes needed to maintain 75% attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
